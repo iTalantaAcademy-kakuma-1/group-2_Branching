@@ -7,4 +7,6 @@ ____
 [ABOUT MY GITHUB](https://github.com/MahdiAdam)
 
 
-[google link](google.com)
+[google link](google.com) 
+
+[AL-Jazeera news](https://www.youtube.com/hashtag/aljazeeralive)
